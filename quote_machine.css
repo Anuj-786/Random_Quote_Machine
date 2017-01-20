@@ -1,0 +1,18 @@
+/* style for quote box*/
+.main-row {
+	width: 50%;
+	margin: 0 auto;
+	background: #ffffff;
+	box-shadow: 5px 5px 10px 5px grey;
+	position: relative;
+	top: 10em;
+	border-radius: 20px;
+}
+h1 {
+	font-family: 'Rock Salt', cursive;
+}
+p {
+	margin: 25px;
+	font-size: 18px;
+
+}
